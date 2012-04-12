@@ -1,0 +1,43 @@
+/*------------------------------------
+* cesari-i
+*
+* @author linghua.zhang@me.com
+* @link http://lhzhang.com/
+* @update 2012-04-12
+* 
+* |/ | (~ (~
+* |\.|._)._)
+* --------------------------------- */
+
+@import url(http://fonts.googleapis.com/css?family=Galdeano);
+@import url(http://fonts.googleapis.com/css?family=Electrolize);
+@import url(http://fonts.googleapis.com/css?family=Cuprum);
+body{font-size:14px;font-family:"Galdeano","Hiragino Sans GB", "Microsoft YaHei", sans-serif;color:#000000;background-color:#ffffff;}
+*{padding:0;margin: 0;border:none;outline:none;}
+h1{font-family:"Cuprum",sans-serif;font-size:2.2em;color:#000;}
+h2{font-family:"Cuprum",sans-serif;font-size:1.3em;color:#111;}
+h3{font-family:"Cuprum",sans-serif;font-size:1.2em;color:#222;}
+h4{font-family:"Cuprum",sans-serif;font-size:1em;color:#333;}
+a{color:#a9a9a9;text-decoration:none;}
+a:hover{color:#333333;-webkit-transition:color .2s linear;}
+hr{border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
+p{padding:.7em 0;}
+li{padding:.2em 0;}
+li.app{list-style:none;padding:2em 0;}
+ol,ul{list-style-position:inside;}
+blockquote{display:block;text-align:justify;background-color:#f0f0f0;padding:1em;}
+.center{text-align:center;}
+#container{margin:2em;display:block;}
+header {border-bottom: 1px solid #ccc;}
+.content{font-size:16px;line-height:24px;margin-bottom: 2em;}
+.app {padding: 2em 0;}
+.app:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+.app-meta{width:10%;float:left;}
+.app-other{display:inline-block;width:85%;float:right;}
+.app-icon,.app-title{text-align:center;}
+.app-title{font-size:1.2em;}
+.app-title a{color:#dd0000;text-decoration:none;}
+.app-icon img{width:72px;}
+.app-screenshot {margin-top: 1em;text-align:center;}
+.app-screenshot img{max-width:160px;display:inline-block;margin:0 2em;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
+.app-pulled{opacity:0.3;}

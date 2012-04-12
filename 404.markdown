@@ -1,0 +1,8 @@
+---
+title: 404
+layout: default
+---
+
+Nothing found :(
+
+But you still can have a [look around](/ "")
